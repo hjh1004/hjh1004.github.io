@@ -1,3 +1,4 @@
-layout: about
-title: "Leo Developer"
-permalink: /about/
+## Leo Developer
+React
+Typescript
+AWS
